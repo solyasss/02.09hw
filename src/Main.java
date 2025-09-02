@@ -1,5 +1,6 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int length = 20;
 
         r_string generator = new r_string(length);
